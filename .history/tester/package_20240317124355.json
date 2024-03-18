@@ -1,0 +1,14 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "socket.io-client": "^4.7.5"
+  },
+  "scripts": {
+    "start:appi": "node app1.js"
+    "start:app2" ""
+  }
+}

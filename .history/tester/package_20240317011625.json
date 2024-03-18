@@ -1,0 +1,12 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "socket.io-client": "^4.7.5"
+  },
+  "scripts": {
+    "st"
+  }
+}
